@@ -35,9 +35,9 @@ func main() {
 
 ```
 ## Supported methods
-Get    - get value by key  
-Save   - save value by key  
-Delete - delete by key  
-Rename - rename key name   
-Count  - get the number of items  
-Exist  - check the existence of the key
+* Get    - get value by key  
+* Save   - save value by key  
+* Delete - delete by key  
+* Rename - rename key name   
+* Count  - get the number of items  
+* Exist  - check the existence of the key
