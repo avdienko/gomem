@@ -41,3 +41,9 @@ func main() {
 * Rename - rename key name   
 * Count  - get the number of items  
 * Exist  - check the existence of the key
+
+## Contributing
+Contributors are welcome! Feel free to improve this project or share your ideas via pull request.
+
+## License
+Distributed under MIT License, please see license file within the code for more details.
