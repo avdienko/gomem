@@ -6,10 +6,12 @@ gomem this is a simple thread-safe in-memory key / value store
 Go 1.9 or higher
 
 ## Installation 
+```
 go get github.com/avdienko/gomem
+```
 
 ## Usage
-```
+```go
 package main
 
 import (
