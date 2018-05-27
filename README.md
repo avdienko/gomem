@@ -24,9 +24,9 @@ import (
 func main() {
 	// Set default expiration time and GC interval
 	cache := gomem.New(5*time.Second, 1*time.Second)
-
+	// If the expiration time is 0 then the default value will be used
 	cache.Save("key", "value", 2*time.Minute)
-
+	// If the value is not then the found will be false
 	result, found := cache.Get("key")
 	if found {
 		fmt.Println(result) // output: value
