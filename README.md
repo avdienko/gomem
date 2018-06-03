@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/avdienko/gomem.svg?branch=master)](https://travis-ci.com/avdienko/gomem)
-
+[![Go Report Card](https://goreportcard.com/badge/github.com/avdienko/gomem)](https://goreportcard.com/report/github.com/avdienko/gomem)
 
 # gomem
 gomem this is a simple thread-safe in-memory key / value store
