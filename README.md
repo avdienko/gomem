@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/avdienko/gomem.svg?branch=master)](https://travis-ci.com/avdienko/gomem)
+
 
 # gomem
 gomem this is a simple thread-safe in-memory key / value store
