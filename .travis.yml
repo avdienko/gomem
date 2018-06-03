@@ -1,9 +1,12 @@
 language: go
 
 go:
+  - 1.8.x
   - 1.9.x
   - 1.10.x
   - master
 
 install:
-  - env GOOS=linux GOARCH=amd64 go build
+  - env GOOS=linux GOARCH=amd64 
+  - go build
+  - go test
