@@ -5,7 +5,7 @@
 gomem this is a simple thread-safe in-memory key / value store
 
 ## Requirement
-Go 1.9 or higher
+Go 1.8 or higher
 
 ## Installation 
 ```
